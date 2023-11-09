@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.palabras {
+    white-space: nowrap; 
+    margin:5px;
+    color: blue;
+}
+
+.espacio{
+	margin: 5px;
+}
