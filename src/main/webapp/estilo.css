@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+.cabezera{
+	font-size: 2em;
+	margin-bottom: 0,5em;
+	
+}
+
 .palabras {
     white-space: nowrap; 
     margin:5px;
@@ -8,4 +14,21 @@
 
 .espacio{
 	margin: 5px;
+}
+
+.contenedor {
+  max-width: 950px;
+  width: 80%;
+  margin-bottom: 9em;
+  border:solid red;
+  background-color: grey;
+  color: white;
+}
+
+.articulo{
+	color: red;
+
+font-family: Verdana, sans-serif;
+
+
 }
